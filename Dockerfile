@@ -1,4 +1,4 @@
-FROM openjdk:8@sha256:96c15b4ddc92615cc8ab30b60deba963232de521784661e1ab886b64a35a0149
+FROM openjdk:8@sha256:fcb55896a657774a1d0ad08da5dd4875c7947ead4838e971b8e8fc7fcc9fe5b4
 
 LABEL maintainer="Atomist <docker@atomist.com>"
 
